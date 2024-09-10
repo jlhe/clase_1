@@ -1,0 +1,3 @@
+faker
+python-dotenv
+mysql-connector-python
